@@ -1,0 +1,196 @@
+{
+  "items" : [
+    {
+        "sys":{"id":"1"},
+         "fields":{
+            "title":"Azithromycine Tablets",
+            "type":"Tablets",
+            "price":"450",
+            "packaging":"10*10 BOX",
+            "image":{"fields":{"file":{"url":"./images/azithro500.jpeg"}}}
+        }
+    },
+    {
+      "sys":{"id":"2"},
+       "fields":{
+          "title":"Enzyme Syrup",
+          "type":"Syrup",
+          "price":"125",
+          "packaging":"200ml",
+          "image":{"fields":{"file":{"url":"./images/bigenzyme.jpeg"}}}
+      }
+  },
+{
+  "sys":{"id":"3"},
+  "fields":{
+    "title":"Cefodoxime Tablet",
+    "type":"Tablets",
+    "price":"2200",
+    "packaging":"10*10 box",
+    "image":{"fields":{"file":{"url":"./images/cefodoxime.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"4"},
+  "fields":{
+    "title":"Ceftriazone Inj",
+    "type":"Injection",
+    "price":"59",
+    "packaging":"10ml*1",
+    "image":{"fields":{"file":{"url":"./images/ceftriazon1.5.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"5"},
+  "fields":{
+    "title":"Nandralone Deconate Inj",
+    "type":"inj",
+    "price":"220",
+    "packaging":"10ml*1",
+    "image":{"fields":{"file":{"url":"./images/decanate.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"6"},
+  "fields":{
+    "title":"Drotaverin Tablet",
+    "type":"Tablets",
+    "price":"1100",
+    "packaging":"10*10 BOX",
+    "image":{"fields":{"file":{"url":"./images/drotaverine.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"7"},
+  "fields":{
+    "title":"Enzyme Drop",
+    "type":"Syrup",
+    "price":"60",
+    "packaging":"60ml*1",
+    "image":{"fields":{"file":{"url":"./images/enzyme.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"8"},
+  "fields":{
+    "title":"Eye Mist EyeDrop",
+    "type":"Aqua DRop",
+    "price":"180",
+    "packaging":"10ml*1",
+    "image":{"fields":{"file":{"url":"./images/eyeluberal.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"9"},
+  "fields":{
+    "title":"Pre Pro Biotic",
+    "type":"Tablets",
+    "price":"1500",
+    "packaging":"10*10 BOX",
+    "image":{"fields":{"file":{"url":"./images/herbotic.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"10"},
+  "fields":{
+    "title":"Ivermecitine Tablet",
+    "type":"Tablets",
+    "price":"1800",
+    "packaging":"10*10 BOX",
+    "image":{"fields":{"file":{"url":"./images/ivermectine.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"11"},
+  "fields":{
+    "title":"Multi Vitamin Tablet",
+    "type":"Tablets",
+    "price":"1900",
+    "packaging":"10*10BOX",
+    "image":{"fields":{"file":{"url":"./images/k27.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"12"},
+  "fields":{
+    "title":"Levocitrizine Tablet",
+    "type":"Tablets",
+    "price":"1000/BOX",
+    "packaging":"10*10BOX",
+    "image":{"fields":{"file":{"url":"./images/levocitrizine.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"13"},
+  "fields":{
+    "title":"Vitamin B12 Tablet",
+    "type":"Tablets",
+    "price":"1900",
+    "packaging":"10*10BOX",
+    "image":{"fields":{"file":{"url":"./images/methylcoblamin.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"14"},
+  "fields":{
+    "title":"Vitamin Tablet",
+    "type":"Tablets",
+    "price":"2100",
+    "packaging":"10*10BOX",
+    "image":{"fields":{"file":{"url":"./images/multivitamin.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"15"},
+  "fields":{
+    "title":"Pentaprazole Tablet",
+    "type":"Tablets",
+    "price":"1200",
+    "packaging":"10*10BOX",
+    "image":{"fields":{"file":{"url":"./images/pan40.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"16"},
+  "fields":{
+    "title":"Prebiotic Tablet",
+    "type":"Tablets",
+    "price":"1850",
+    "packaging":"10*10BOX",
+    "image":{"fields":{"file":{"url":"./images/prebiotic.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"17"},
+  "fields":{
+    "title":"TaximO Tablet",
+    "type":"Tablets",
+    "price":"1850",
+    "packaging":"10*10BOX",
+    "image":{"fields":{"file":{"url":"./images/taximo.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"18"},
+  "fields":{
+    "title":"Tranexa Tablet",
+    "type":"Tablets",
+    "price":"3200/BOX",
+    "packaging":"10*10BOX",
+    "image":{"fields":{"file":{"url":"./images/tranexa.jpeg"}} }
+}
+},
+{
+  "sys":{"id":"19"},
+  "fields":{
+    "title":"Udiliv Tablet",
+    "type":"Tablets",
+    "price":"4200",
+    "packaging":"10*10BOX",
+    "image":{"fields":{"file":{"url":"./images/udiliv.jpeg"}} }
+}
+}
+
+]
+}
+
